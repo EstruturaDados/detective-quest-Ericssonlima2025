@@ -39,9 +39,4 @@ int main() {
     // - Adicione um contador para saber qual suspeito foi mais citado.
     // - Exiba ao final o “suspeito mais provável” baseado nas pistas coletadas.
     // - Para hashing simples, pode usar soma dos valores ASCII do nome ou primeira letra.
-    // - Em caso de colisão, use lista encadeada para tratar.
-    // - Modularize com funções como inicializarHash(), buscarSuspeito(), listarAssociacoes().
-
-    return 0;
-}
-
+    // - Em caso de colisão, use lista encadeada para tratar
